@@ -1,0 +1,2 @@
+name = 'Peet'
+lastname = 'Kampang'
